@@ -1,4 +1,4 @@
-//console.log("hello world0");
+console.log("hello world0");
 var yargs=require('yargs');
 let userInput=yargs.argv._[0],str='Number is at index ',check=false;
 var _=require('lodash');
